@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: springboot-start
+
+server:
+  port: 9090
+
+email:
+  user: 752280856@qq.com
+  code: xxxxxxxxxxxxxxx
+  host: smtp.qq.com
+  auth: true

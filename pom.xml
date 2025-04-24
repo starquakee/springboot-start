@@ -46,6 +46,12 @@
             <artifactId>jakarta.mail</artifactId>
         </dependency>
 
+        <dependency>
+            <groupId>cn.itcast</groupId>
+            <artifactId>common-pojo</artifactId>
+            <version>1.0</version>
+        </dependency>
+
     </dependencies>
 
     <build>

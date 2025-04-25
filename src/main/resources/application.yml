@@ -10,3 +10,7 @@ email:
   code: xxxxxxxxxxxxxxx
   host: smtp.qq.com
   auth: true
+
+country:
+  name: China
+  system: Social
